@@ -35,17 +35,17 @@
   var_dump($string_kata);
   echo "<br>";
 
-  $bool_true = (int)bool_true;
+  $bool_true = (int)$bool_true;
   var_dump($bool_true);
   echo "<br>";
 
-  $bool_false = (int)bool_false;
+  $bool_false = (int)$bool_false;
   var_dump($bool_false);
   echo "<br>";
 
   $array_kosong = (int)$array_kosong;
   var_dump($array_kosong);
-  echo "<br>"
+  echo "<br>";
 
   $array_isi = (int)$array_isi;
   var_dump($array_isi);

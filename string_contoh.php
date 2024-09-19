@@ -1,6 +1,6 @@
 <?php
   $huruf = 'A';
-  $nama = "Anto;
+  $nama = "Anto";
   $situs = "www.duniailkom.com";
   $kalimat = "Sedang serius belajar PHP";
 
@@ -10,5 +10,5 @@
   echo "<br>";
   var_dump($situs);
   echo "<br>";
-  var_dump(kalimat);
+  var_dump($kalimat);
 ?>

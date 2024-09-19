@@ -1,5 +1,5 @@
 <?php
-  $macam2 = array(121,"joko,44.99,"Belajar PHP");
+  $macam2 = array(121,"joko",44.99,"Belajar PHP");
   $macam2[] = "Duniailkom";
   $macam2[] = 212;
   $macam2[] = 3.14;

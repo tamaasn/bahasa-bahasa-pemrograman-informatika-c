@@ -7,7 +7,7 @@
   $array_isi = array("a","b","c");
   $null = null;
   $object = new stdClass;
-  $resource = fopen("type_casting_float.php");
+  $resource = fopen("type_casting_float.php","r");
 
   $angka_nol = (bool)$angka_nol;
   var_dump($angka_nol);
